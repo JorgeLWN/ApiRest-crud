@@ -51,11 +51,6 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-		<dependency>
-			<groupId>com.bancoppel.creditocobranza</groupId>
-			<artifactId>GestorColaboradores</artifactId>
-			<version>0.0.1</version>
-		</dependency>
 	</dependencies>
 
 	<build>
